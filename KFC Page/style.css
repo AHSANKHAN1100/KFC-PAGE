@@ -5,14 +5,11 @@ body{
 .main{
     width: 1100px;
     height:1000px;
-   
     margin: auto;
- 
 }
 .nav{
     height:90px;
     width: 100%;
-    
     float: left;
 }
 .slider{
@@ -25,33 +22,28 @@ body{
 .content{
     width: 100%;
     height:800px;
-  
     float: left;
 }
 .top{
     height: 290px;
     width: 100%;
-
     float: left;
 }
 .bottom{
     height:550px;
     width: 100%;
-  
-    float: left;
+   float: left;
 }
 .topdown{
     width:100%;
     height:210px;
     margin-bottom: 0px;
-    
     float: left;
 }
 .top6{
     width: 157px;
     height:160px;
-
-    float: left;
+     float: left;
     margin-left: 20px;
     margin-top: 20px;
     border-radius: 10px;
@@ -198,7 +190,6 @@ footer{
 .footuplogo{
     width:120px;
     height:90px;
-    
     float: left;
     margin-top: 30px;
     
@@ -207,7 +198,6 @@ footer{
 .link{
     width:265px;
     height:30px;
-
     float: left;
     margin-top: 40px;
     margin-left: 10px;
@@ -222,7 +212,6 @@ footer{
 .linkdown3{
     width: 50px;
     height:50px;
-
     float: left;
     margin-left: 20px;
     border-radius: 30px;
@@ -324,7 +313,6 @@ li{
 .pickuppic{
     width:55px;
     height: 35px;
-   
     float: left;
 }
 .navpic{
@@ -334,7 +322,6 @@ li{
 .sign{
     width: 180px;
     height:40px;
-    
     float: right;
    margin-top:23px;
    border-radius: 10px;
